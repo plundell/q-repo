@@ -6,6 +6,7 @@
     ,"git":{
       "owner":"plundell"
       ,"repo":"q-localfiles"
+    }
   }
   ,"q-ffprobe":{
     "name":"FFprobe Wrapper"
@@ -14,5 +15,6 @@
     ,"git":{
       "owner":"plundell"
       ,"repo":"q-ffprobe"
+    }
   }
 }
