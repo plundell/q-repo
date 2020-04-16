@@ -1,6 +1,7 @@
 {
   "q-localfiles":{
     "name":"Local File Player"
+    ,"type":"player"
     ,"description":"Play files from USB connected storage."
     ,"git":{
       "owner":"plundell"
@@ -8,6 +9,7 @@
   }
   ,"q-ffprobe":{
     "name":"FFprobe Wrapper"
+    ,"type":"meta"
     ,"description":"Wrapper around ffprobe which provides metadata for local and remote audio resources."
     ,"git":{
       "owner":"plundell"
