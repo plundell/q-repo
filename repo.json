@@ -13,4 +13,11 @@
     ,"source":"github"
     ,"target":"plundell/q-ffprobe"
   }
+  ,"q-ffmpeg":{
+    "name":"FFmpeg Wrapper"
+    ,"type":"pipe"
+    ,"description":"Wrapper around ffmpeg which provides source,transform and sink capabilities."
+    ,"source":"github"
+    ,"target":"plundell/q-ffmpeg"
+  }
 }
