@@ -1,7 +1,7 @@
 # Q Repo
-This is a list of apps for use on the [Q Music Player](https://qmusicplayer.com). 
+This is a list of **1st party** apps for use on the [Q Music Player](https://qmusicplayer.com). By convention, all apps in this repo are prefixed by **q-**.
 
-All apps on this list have been made or commissioned by Q Music Player AB (a limited liability coorporation registered in Sweden). No other submissions will be entertained. 
+All apps on this list have been made or commissioned by Q Music Player AB (a limited liability coorporation registered in Sweden). **No other submissions will be entertained**. For more repos (incl. 3rd party) see [q-repos-main](https://github.com/plundell/q-repos-main).
 
 The repo itself and the apps listed within are *seperate* and *optional* from the Q operating system. The repo can be installed on your Q by virtue of being listed in [q-repos-main](https://github.com/plundell/q-repos-main).
 
