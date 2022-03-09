@@ -3,21 +3,18 @@
     "name":"Local File Player"
     ,"type":"player"
     ,"description":"Play files from USB connected storage."
-    ,"source":"github"
-    ,"target":"plundell/q-localfiles"
+    ,"target":"github:plundell/q-localfiles"
   }
   ,"q-ffprobe":{
     "name":"FFprobe Wrapper"
     ,"type":"meta"
     ,"description":"Wrapper around ffprobe which provides metadata for local and remote audio resources."
-    ,"source":"github"
-    ,"target":"plundell/q-ffprobe"
+    ,"target":"github:plundell/q-ffprobe"
   }
   ,"q-ffmpeg":{
     "name":"FFmpeg Wrapper"
     ,"type":"pipe"
     ,"description":"Wrapper around ffmpeg which provides source, transform and sink capabilities."
-    ,"source":"github"
-    ,"target":"plundell/q-ffmpeg"
+    ,"target":"github:plundell/q-ffmpeg"
   }
 }
